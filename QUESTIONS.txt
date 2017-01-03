@@ -1,0 +1,10 @@
+1) Maven specifies version dependencies for programs and resolves collisions and conflicts automatically.
+2) A place, usually a directory, where all the .jar artifacts are stored.
+3) A SNAPSHOT is the most recent development version of Maven.
+4) Provided is similar to the compile scope, but expects the JDK or container to provide the type of dependency at runtime.
+5) Test indicates that the program is simply a test version of it and is not meant for normal use.
+6) If there is no scope being specified, then the dependency scope is simply just compile.
+7) Determines the version of the program within the pom.xml file.
+8) 3.8.1
+9) The current Java version of your JDK.
+10) The order of repositories is dependent on their order in the pom.xml file.
